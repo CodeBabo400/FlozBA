@@ -1,0 +1,6 @@
+# Projektkonfiguration für Codex. Wird nur geladen, wenn das Projekt als "trusted" markiert ist.
+# Werte gegen die Beispielkonfiguration der installierten Codex-Version prüfen:
+# https://developers.openai.com/codex/config-sample
+
+# Live-Websuche statt Cache – für aktuelle Forschung nötig.
+web_search = "live"

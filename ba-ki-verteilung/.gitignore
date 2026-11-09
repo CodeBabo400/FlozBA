@@ -1,0 +1,5 @@
+# Volltexte nicht ins (ggf. öffentliche) Repo – Urheberrecht.
+# Entfernen, wenn das Repo privat ist und PDFs versioniert werden sollen.
+quellen/pdf/*.pdf
+.DS_Store
+__pycache__/
